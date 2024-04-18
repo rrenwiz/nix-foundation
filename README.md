@@ -1,4 +1,4 @@
-# nix-foundation
+# nix-foundation - updated for demo
 
 ## Project setup
 ```
