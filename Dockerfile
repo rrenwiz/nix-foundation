@@ -1,6 +1,6 @@
 FROM node:14.14-alpine
 
-# install simple http server for serving static content
+# install simple http server for serving static content - update for demo
 RUN npm install -g http-server
 
 # make the 'app' folder the current working directory
